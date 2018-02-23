@@ -7,6 +7,8 @@ public class Animal {
 		System.out.println("Branch1");
 		System.out.println("New Line");
 		
+		System.out.println("Master");
+		System.out.println("New Line-M");
 	}
 
 }
